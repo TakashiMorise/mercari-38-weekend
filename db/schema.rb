@@ -110,3 +110,5 @@ ActiveRecord::Schema.define(version: 20190317075109) do
   add_foreign_key "items", "categories"
   add_foreign_key "items", "users"
 end
+
+# 再プルリク用ファイル
